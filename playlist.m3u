@@ -29,12 +29,6 @@ https://dethich.pw/vtv9/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/vtv10hd.jpg" group-title="VTV",VTV10 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://dethich.pw/vtv10/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/vtv5hdtn.jpg" group-title="VTV",VTV5 HD Tây Nguyên
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tn-manifest.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/vtv5hdtn.jpg" group-title="VTV",VTV5 HD Tây Nam Bộ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tnb-manifest.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/logos/antvhd.png" group-title="VTV",ANTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
